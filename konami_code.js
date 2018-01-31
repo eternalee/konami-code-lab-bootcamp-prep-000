@@ -21,7 +21,7 @@ function init() {
   })
 }
 
-//init();
+init();
 
 //var key = []
 //document.addEventListener('keydown', function(e) {
